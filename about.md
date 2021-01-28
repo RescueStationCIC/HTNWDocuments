@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# HTNW Documents
+This is the documents site for the [Heritage Trust for the North West (HTNW)](https://heritagetrustnorthwest.org/about/). 
+It's intended to be a simple, cheap central point for documentation. 
+The site is hosted for free on GitHub Pages (Thank you). 
+Documentation is added as markdown.  
+The documentation can be easily versioned, using GitHub. It can be viewed by other websites in an iFrame.
+This last point is crucial, and was the reason we went for this method, rather than Google Docs, or Google Sites. They don't allow viewing of their sites, embedded within another. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Contact
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Please contact [Heritage Trust for the North West](https://heritagetrustnorthwest.org/contact-2/)
 
 
-[jekyll-organization]: https://github.com/jekyll
+
