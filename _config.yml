@@ -18,7 +18,7 @@ url: "https://rescuestationcic.github.io" # the base hostname & protocol for you
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
