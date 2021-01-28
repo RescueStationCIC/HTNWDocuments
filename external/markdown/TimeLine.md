@@ -1,11 +1,5 @@
 # Higherford Mill Timeline
 
-## Nov 2020 Revision 1
-
-### A D Pilling 2020 and M Rothwell 2006
-
-
-
 | Date           | Events                                                       |
 | -------------- | ------------------------------------------------------------ |
 | 1805           | Thomas Grimshaw was living in and owner of Crowtrees. The Grimshaws were maltsters and cloth manufacturers, putting out worsted then cotton warps and weft yarn to hundreds of domestic handloom weavers for weaving into c.50yd pieces of cloth. |
@@ -58,6 +52,8 @@
 | 2009           | By completion of Phase II, Offices, 36 creative industries workshops and studios had been constructed and let, providing much needed facilities for artists, artisans as well as opportunities for local employment. Rents from the studios pay for the upkeep of the Mill. Three studies were carried out by consultants, supported by the Forest of Bowland AONB and Lancaster University which proved the technical feasibility for reinstating the waterwheel in a hydro power scheme. |
 | 2010           | Although Phase III of the project had been designed to minimise carbon footprint, austerity measures imposed following the global financial crisis limited progress. Conversion of the unfinished areas at the rear of the mill was planned for visitor facilities, an art gallery / multi-use space, educational resource centre and when funds permit a new reception at the front of the Mill. An ultimate objective is to restore the waterwheel, weir and historic mill races for a hydropower scheme to make the mill carbon negative. |
 |                |                                                              |
+
+*Nov 2020, A D Pilling 2020 and M Rothwell 2006*
 
 
 
