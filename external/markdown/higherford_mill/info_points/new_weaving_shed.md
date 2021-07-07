@@ -1,8 +1,8 @@
 # 'New' South Weaving Shed
 
-In 1882 Higherford Mill went full-on weaving, from previously doing its own cotton-spinning. 
+In 1882 Higherford Mill went full-on weaving. Previously, it had spun its own cotton, but as larger spinning mills were developed, it was cheaper to buy-in yarn from elsewhere.
 
-The 4 storey spinning mill was demolished and it's materials used to build this new south shed for more looms.
+The 4 storey spinning mill was demolished and its materials used to build this new south shed for more looms.
 
 It happended quickly, too. By 1885, the mill was weaving on 495 looms, from 200 in 1880.
 
