@@ -4,7 +4,7 @@ In 1882 Higherford Mill went full-on weaving. Previously, it had spun its own co
 
 The 4 storey spinning mill was demolished and its materials used to build this new south shed for more looms.
 
-It happended quickly, too. By 1885, the mill was weaving on 495 looms, from 200 in 1880.
+It happended quickly, too. By 1885, the mill was weaving on 495 looms, up from 200 just 5 years before.
 
 This needed more power! The mill used several new technologies to achive this. 
 
