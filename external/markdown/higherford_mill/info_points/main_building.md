@@ -10,7 +10,7 @@ For nearly 30 years, the mill was able to take in bales of raw cotton, spin them
 
 By 1882 it was obvious that spinning was being done more effectively elsewhere. The real money was in weaving. 
 
-The spinning mill was demolished, its stone going to make the South weaving shed. The warehouse remained and the mill ran until 1971.
+The spinning mill was demolished, its stone going to make the South weaving shed. The warehouse remained and the mill ran until its closure in 1971 - they call this 'weaving out'.
 
 For over 20 years, the building languished, unoccupied and unmaintained until 1994. A demolition request was made.
 
