@@ -10,4 +10,4 @@ A 'pen-trough' - a cast iron channel running running underneath the mill - funne
 
 The mill is unique in that it has a double-decker pen trough. One for the leat from the river, one for the leat from the lodge.
 
-Finally, the spent water returns to the river, via an outlet underneath the bridge.
+The spent water returns to the river, via an outlet underneath the bridge - there's another which runs underneath the Blacksmith's and would have turned its small waterwheel, too.
