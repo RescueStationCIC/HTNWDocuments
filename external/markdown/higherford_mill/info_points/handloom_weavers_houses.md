@@ -1,4 +1,4 @@
-# Handloom weaver's houses
+# Handloom weavers' houses
 
 At the start of the 1800s handloom weavers worked in their houses in small communities in Lancashire.  
 
