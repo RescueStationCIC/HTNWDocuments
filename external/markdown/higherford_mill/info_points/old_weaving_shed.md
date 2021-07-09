@@ -7,6 +7,8 @@ When the main warehouse was built it could operate at its full capacity - over 2
 
 The mill has always used a combination of power sources. Two drive shafts came into the building - one from the mill's steam engine, and one from the waterwheel. A special device called a Dog Clutch was used to combine the two into a single drive to power all the looms.
 
+Weaving sheds usually have only one floor. Early-on, many mill owners made the mistake of putting powerlooms into the multi-storey buildings they used for spinning, which shook them to bits.
+
 Loom operators needed lots of light to see by. From the side, the roof has a 'saw-tooth' profile, familiar from factories everywhere. This is so that the roof can hold many windows. They are all angled to face North. This is to avoid strong sunlight, which is bad for the cotton. 
 
 But this one is special. It's the oldest. The earliest surviving north-light structure in the world. Right here.
