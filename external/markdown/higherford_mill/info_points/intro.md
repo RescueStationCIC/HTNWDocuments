@@ -16,6 +16,6 @@ You can go inside and tour the mill by pressing on the arrow buttons.
 
 ## Maps
 Take a look at the maps to get an idea of how Higherford Mill developed over time.  
-Use the Maps button to see how Higherford Mill changed to meet new demands and harness new technology. 
+Use the Maps button to see how it changed to meet new demands and harness new technology. 
 
 ![maps](./map_white_grey_bck.png) 
