@@ -10,6 +10,6 @@ By 1820, there were over 170,000 handloom weavers in Lancashire, using this work
 
 Working at home like this suited them, especially in winter; roads were mostly mud, so they couldn't travel far to work every day. Weaving cotton needs humid conditions, so most people worked in their cellars. It wasn't the best work-from-home deal.
 
-![handloom_weaver](./Jb09505.jpg){: .align-center }
+![handloom_weaver](./Jb09505.jpg)
 
 Iñazio Irizar/ [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
