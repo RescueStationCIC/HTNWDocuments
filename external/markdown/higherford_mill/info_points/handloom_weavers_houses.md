@@ -12,4 +12,4 @@ Working at home like this suited them, especially in winter; roads were mostly m
 
 ![handloom_weaver](./Jb09505.jpg)
 
-Iñazio Irizar/ [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+Credit: Iñazio Irizar/ [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
