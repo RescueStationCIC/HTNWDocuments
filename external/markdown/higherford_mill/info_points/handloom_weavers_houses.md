@@ -13,3 +13,11 @@ Working at home like this suited them, especially in winter; roads were mostly m
 ![handloom_weaver](./Jb09505.jpg)
 
 Credit: Iñazio Irizar/ [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
+The situation in Barrowford got progressivley worse as the Grimshaws diversified from spinning yarn and started weaving on powerlooms in 1832. 
+
+For the handloom weavers living nearby, it made for unpleasant competiton; although Grimshaw's still used 400 of them for putting-out contract work they couldn't hope to match the quality and price of the fabric made by the powerlooms. 
+
+The boom in the textile industry over the next 30 years made sure there were plenty of jobs. Sooner or later, the handloom weavers packed up and moved to the factory. 
+
+By 1885, the mill had nearly 500 powerlooms with no spinning. Handloomers were extinct. 
