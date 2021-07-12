@@ -19,6 +19,6 @@ The situation in Barrowford got progressivley worse as the Grimshaws diversified
 
 For the handloom weavers living nearby, it made for unpleasant competiton; although Grimshaw's still used 400 of them for putting-out contract work they couldn't hope to match the quality and price of the fabric made by the powerlooms. 
 
-The boom in the textile industry over the next 30 years made sure there were plenty of jobs. Sooner or later, the handloom weavers packed up and moved to the factories. The change in their way of life was difficult. The mill insisted on 12 hours a day, 6 days a week, made worse by the demand that they work for no pay while being trained.
+The boom in the textile industry over the next 30 years made sure there were plenty of jobs. Sooner or later, the handloom weavers packed up and moved to the factory. The change in their way of life was difficult. The mill insisted on 12 hours a day, 6 days a week, made worse by the demand that they work for no pay while being trained.
 
 By 1885, the mill had nearly 500 powerlooms with no spinning. And handloomers were largely extinct. 
