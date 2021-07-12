@@ -23,7 +23,7 @@ They are broken up, blended and 'scutched', removing seeds and leftover bits of 
 
 This makes rolls of clean cotton wool, called a 'lap'.
 
-![max_pic](./cotton_lap.jpg)
+![max_pic](./cotton_lap.jpg)  
 Image credit: Imperial War Museum: [IWM D 25986](https://www.iwm.org.uk/corporate/policies/non-commercial-licence)
 
 
