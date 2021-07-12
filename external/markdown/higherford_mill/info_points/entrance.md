@@ -18,4 +18,4 @@ As a registered Building Preservation Trust, the Trust aims to find appropriate 
 
 By 2009, offices, creative industries workshops and studios had been constructed and let, providing facilities for artists and artisans as well as opportunities for local employment. Rents from the studios now pay for the upkeep of the Mill. 
 
-More developments are coming, including the return of the waterwheel amd sustainable hydro- and solar power. 
+More developments are coming, including the return of the waterwheel and sustainable hydro- and solar power. 
