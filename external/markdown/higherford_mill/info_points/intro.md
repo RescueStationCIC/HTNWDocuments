@@ -9,17 +9,21 @@ Up river was the Packhorse Bridge, which these workers used to cross the river i
 Grimshaw’s orchard was in a prime spot beside the river, Pendle Water. So he decided to build a mill right here. His plan - to spin quality yarn for the handloom workers with cotton brought in along the turnpike road. The river was to provide the power needed by driving a waterwheel. By 1824 the mill was up and running.  
 
 ## Tour
-You can go inside and tour the mill by pressing on the arrow buttons.  
+You can go inside and tour the mill by pressing on the arrow buttons: 
 
 ![arrows](./nav_arrow.png) 
 
-You can find out more, by tapping on the information buttons.
+You can find out more, by tapping on the information buttons:
 
-![things](./things.png)
+| Things                  | People                  | Stories                  |
+| ----------------------- | ----------------------- | ------------------------ |
+| ![things](./things.png) | ![things](./people.png) | ![things](./stories.png) |
+
+
 
 
 ## Maps
 Take a look at the maps to get an idea of how Higherford Mill developed over time.  
-Use the Maps button to see how it changed to meet new demands and harness new technology. 
+Use the Maps button to see how it changed to meet new demands and harness new technology:
 
 ![maps](./map_white_grey_bck.png) 
