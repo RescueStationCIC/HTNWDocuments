@@ -15,7 +15,7 @@ Grimsshaw's opeate a 4 story spinning mill, powered by waterwheel at first - the
 
 Bales of cotton are brought in and stored until needed.
 
-![max_pic](./cotton_bale.png)
+![max_pic](./cotton_bale.jpg)
 Image Credit: [Kevin Ryan](https://pixabay.com/users/kevincodeforclt-2794506/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2128197)
 
 
@@ -23,7 +23,7 @@ They are broken up, blended and 'scutched', removing seeds and leftover bits of 
 
 This makes rolls of clean cotton wool, called a 'lap'.
 
-![max_pic][./cotton_lap.jpg]
+![max_pic](./cotton_lap.jpg)
 Image credit: Imperial War Museum: [IWM D 25986](https://www.iwm.org.uk/corporate/policies/non-commercial-licence)
 
 
