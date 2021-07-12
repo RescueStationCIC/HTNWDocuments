@@ -13,6 +13,10 @@ You can go inside and tour the mill by pressing on the arrow buttons.
 
 ![arrows](./nav_arrow.png) 
 
+You can find out more, by tapping on the information buttons.
+
+![things](./things.png)
+
 
 ## Maps
 Take a look at the maps to get an idea of how Higherford Mill developed over time.  
