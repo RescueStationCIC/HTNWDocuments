@@ -31,12 +31,37 @@ Into the hoist, to the...
 
 ***First Floor:***
 
-Here's where you'll find the 'carding' machines. They perform a combing operation on the wool, aligning the fibres, so they make a strong thread when spun.
-This makes soft weak ropes of cotton fibre, called 'slivers'.
+Here's where you'll find the 'carding' machines. They perform a combing operation on the cotton, aligning the fibres, so they make a strong thread when spun.
+This makes soft weak ropes of cotton fibre, called 'slivers', which are coiled up into cans to protect them.
+
+![max_pic](./carding_2.jpg)  
+Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 In to the hoist, to the...
 
 ***Second Floor:***
+
+Cans of sliver are delivered to drawing frames, which combine several slivers into one.  The new sliver has a very regular thickness, with the fibres lying parallel to each other. 
+
+Then there's *roving*, which reduces slivers to about 1/8 of their orignal diameter, pulling and twisiting it slightly, so it's strong enough to be wound onto a bobbin, ready for spinning. 
+
+![max_pic](./drawingframe_2.jpg)
+Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+In to the hoist, to the...
+
+***Third Floor:**
+
+
+
+spinning
+![max_pic](./spinning.jpg)
+Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
+
+
 
 
 
