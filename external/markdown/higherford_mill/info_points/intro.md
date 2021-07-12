@@ -15,9 +15,9 @@ You can go inside and tour the mill by pressing on the arrow buttons:
 
 You can find out more, by tapping on the information buttons:
 
-| Things                  | People                  | Stories                  |
-| ----------------------- | ----------------------- | ------------------------ |
-| ![things](./things.png) | ![things](./people.png) | ![things](./stories.png) |
+| Things                  | People                  | Stories                   |
+| ----------------------- | ----------------------- | ------------------------- |
+| ![things](./things.png) | ![people](./people.png) | ![stories](./stories.png) |
 
 
 
