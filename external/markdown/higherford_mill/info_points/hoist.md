@@ -84,14 +84,19 @@ The warehouse building was built next door to the spinning mill, and over the to
 It was able to take-over all the preparation, inspection and despatch depatments from the North weaving shed.
 
 ### Second Floor Warehouse
-Oddly, connects with the 3rd floor of the spinning mill - so now all the yarn can be passed quickly accross from spinning.
+Oddly, this 2nd floor connects with the 3rd floor of the spinning mill - now all the yarn can be passed quickly across from spinning.
 This floor now deals with preparing the warp beams and bobbins holding the weft thread and storing them, ready for use.
 
 ### First Floor Warehouse
-Here's where fabric is inspected, packed and stored, ready for despatch. The offices are also on this floor. They have their own set of stairs...
+Here's where fabric is inspected, packed and stored, ready for despatch. 
+The offices are also on this floor. They have their own set of stairs.
 
 ### Ground floor Warehouse
-Goods-in, Goods-out. 
+This is now where the cotton bales come in, and the finished fabric goes out.
+
+## All is weaving - 1882
+The mill was now owned by the Wisemans. They converted the mill exclusively weaving, by knocking down the spinning mill, and replacing it with the second, South, weaving shed.
+Now, all yarn is imported to the mill, which means a greater variety of fabric can be made. 
 
  
 
