@@ -12,8 +12,9 @@ For nearly 30 years, the mill had the full capability: to take in bales of raw c
 
 Later, the Grimshaw's would respond again to different demands.
 
-The mill has always been easily reached by transport. As it was built, in 1824 the turnpike road was doing good business and goods could be taken by wagon along it to the towns of Skipton and Clitheroe.
-The canal was already providing a link to Manchester, but also Blackburn, Leeds and Liverpool
-From 1849 the East Lancashire Railway could be reached from nearby Colne, with connections to Blackburn, Preston, Manchester and Liverpool,
+The mill has always been easily reached by transport. 
+As it was built, in 1824 the turnpike road was doing good business and goods could be taken by wagon along it to the towns of Skipton and Clitheroe.  
+The canal was already providing a link to Manchester, but also Blackburn, Leeds and Liverpool.  
+From 1849 the East Lancashire Railway could be reached from nearby Colne, with connections to Blackburn, Preston, Manchester and Liverpool.
 
 
