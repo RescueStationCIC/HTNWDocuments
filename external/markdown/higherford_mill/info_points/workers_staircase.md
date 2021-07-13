@@ -4,85 +4,34 @@ Until 1882, this was the way the spinners went in the morning and left in the ev
 
 The stairs' treads are worn from years of steps - when the first set of treads wore out, another set were simply nailed on top. 
 
-
 # How did they work?
+
+## Cotton Mills
 The mills were early factories, moving cotton through a set of processes and machines, which seperated straightened, and twisted cotton fibers, combined them into yarn, then wove the yarn into cloth. 
-Early industry was very competitive, fortunes could be made. But labour laws were non-existent and weathly owners treated their workers with deep prejudice, routinely exploiting them.
-Workers were barely able to earn enough to feed and clothe themselves. Children worked alongside their families. 
-The mills were built, furnished and staffed to produce as much product as possible, as cheaply as possible.
+The industry was very competitive and fortunes could be made. But labour laws were non-existent and weathly owners treated their workers with deep prejudice, routinely exploiting them.
+The mills were built, furnished and staffed to produce as much product as possible, as cheaply as possible:
 As many machines as could fit, inside a building kept hot and humid for the best conditions for working cotton.
 As many staff as could work the machines at the least possible cost, working the longest hours possible.
- 
-***What was it like?***
+As little money spent on the welfare of workers as possible. Best to employ children.
+Workers were barely able to earn enough to feed and clothe themselves.
+
+From 1802 to 1891 there were over 18 Acts of Parliament passed as the country recognised that something was seriously wrong and tried to change. In 1948 textile workers were still suffering from respiritory diseases, although the causes were understood 100 years before. 
+
+
+### What was it like?
 It was unbearably hot and deafeningly noisy.
-The air was thick with cotton fibres, causing lung dieseases.
+It stank - of oil, dust, body odour and poor sanitation.
+The air was thick with cotton fibres.
 There was a huge fire-risk.
 There was a constant risk of injury.
 Violence and beatings were normal. 
-There was no escape.
-
-## Spinning - from 1824 to 1832
-Grimsshaw's opeate a 4 story spinning mill, powered by waterwheel at first - they added a beam engine later.
-
-### Ground FLoor
-
-Bales of cotton are brought in and stored until needed.
-
-![max_pic](./cotton_bale.jpg)
-Image Credit: [Kevin Ryan](https://pixabay.com/users/kevincodeforclt-2794506/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2128197)
+Disease and early death were normal.
+Life expectancy - 40, if you got past 5.
 
 
-They are broken up, blended and 'scutched', removing seeds and leftover bits of the cotton plant.
+### What about here?
+The Grimshaws owned the mill until 1869. They were well regarded in Barrowford. Of Christopher Grimshaw, the most prominent member of the family at that time, it's written:  "During the cotton famine, about the years 1862-3, he took a great part in the relief of the distress caused by the stoppage of the mills, thus showing his great interest in the welfare of the village". So we can hope that Higherford Mill saw to it staff a little better.  
 
-This makes rolls of clean cotton wool, called a 'lap'.
+![max_pic](./robert_cruikshank_cartoon.png)
 
-![max_pic](./cotton_lap.jpg)  
-Image credit: Imperial War Museum: [IWM D 25986](https://www.iwm.org.uk/corporate/policies/non-commercial-licence)
-
-***What was it like?***
-The laps are ev
-
-***What next?***
-The laps are extremely heavy; they are taken on trolleys to a hoist, up to...
-
-### First Floor
-
-Here's where you'll find the 'carding' machines. They perform a combing operation on the cotton, aligning the fibres, so they make a strong thread when spun.
-This makes soft weak ropes of cotton fibre, called 'slivers', which are coiled up into cans to protect them.
-
-![max_pic](./carding_2.jpg)  
-Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-***What's it like?***
-Carding machines were dangerous: unwary workers sometimes lost fingers or arms in their crushing grip. 
-
-
-### Second Floor
-
-Cans of sliver are delivered to drawing frames, which combine several slivers into one.  The new sliver has a very regular thickness, with the fibres lying parallel to each other. 
-
-Then there's *roving*, which reduces slivers to about 1/8 of their orignal diameter, pulling and twisiting it slightly, so it's strong enough to be wound onto a bobbin, ready for spinning. 
-
-![max_pic](./drawingframe_2.jpg)
-Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-In to the hoist, to the...
-
-### Third Floor
-
-Throstle frames spin the roving into yarn. They're call Throstles, because they make a noise like a song thrush.
-![max_pic](./spinning.jpg)
-Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
-
-
-
-
-
-
-
-
-
-In the back there were also two storeys available for handlooms, so the Grimshaws were employing weavers on-site, as well as simply spinning. 
 
