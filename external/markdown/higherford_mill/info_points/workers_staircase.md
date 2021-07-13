@@ -11,7 +11,6 @@ The mills were built, furnished and staffed to produce as much product as possib
 As many machines as could fit, inside a building kept hot and humid for the best conditions for working cotton.  
 As many staff as could work the machines at the least possible cost, working the longest hours possible.  
 As little money spent on the welfare of workers as possible. Best to employ children.  
-Workers were barely able to earn enough to feed and clothe themselves.  
 
 ### What was it like?
 It was unbearably hot and deafeningly noisy.  
@@ -24,11 +23,13 @@ Disease and early death were normal.
 Life expectancy? 40, if you got past 5.  
 
 ## Are you sure?
-From 1802 to 1891 there were over 18 Acts of Parliament passed as the country recognised that something was seriously wrong and tried to change. Even then, 1948 textile workers were still suffering from respiritory diseases, although the causes were understood 100 years before; pulmonary tuberculosis - from inhalation of fibres.  
+From 1802 to 1891 there were over 18 Acts of Parliament passed as the country recognised that something was seriously wrong and tried to change. 
+
+But even as late as 1948, textile workers were still suffering from respiritory diseases, although the causes were understood 100 years before; pulmonary tuberculosis - from inhalation of fibres.  
 
 From an 1863 article in the medical journal the Lancet - ‘A carder seldom lives in a cardroom beyond forty years of age. Many have to give up working much younger’.
 
-Perhaps the most desperate story to tell comes after the Factory and Workshop Act of 1878 - which only *reccommends* ventilation of factory spaces - some workers complained of hunger as a result of the improved ventilation. The amount of cotton they were ingesting had actually affected their appetite.
+Perhaps the most desperate story to tell comes after the Factory and Workshop Act of 1878 - which only *reccommends* ventilation of factory spaces - some workers complained of hunger as a result of the improved ventilation. It was because there was less cotton in their stomachs.
 
 ### What about here?
 The Grimshaws owned the mill until 1869. They were well regarded in Barrowford. Of Christopher Grimshaw, the most prominent member of the family at that time, it's written:  "During the cotton famine, about the years 1862-3, he took a great part in the relief of the distress caused by the stoppage of the mills, thus showing his great interest in the welfare of the village". So we can hope that Higherford Mill saw to its staff a little better.  
