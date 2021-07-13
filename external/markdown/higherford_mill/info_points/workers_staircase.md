@@ -4,9 +4,7 @@ Until 1882, this was the way the spinners went in the morning and left in the ev
 
 The stairs' treads are worn from years of steps - when the first set of treads wore out, another set were simply nailed on top. 
 
-# How did they work?
-
-## Cotton Mills
+## The Cotton Mills
 The mills were early factories, moving cotton through a set of processes and machines, which seperated straightened, and twisted cotton fibers, combined them into yarn, then wove the yarn into cloth. 
 The industry was very competitive and fortunes could be made. But labour laws were non-existent and weathly owners treated their workers with deep prejudice, routinely exploiting them.
 The mills were built, furnished and staffed to produce as much product as possible, as cheaply as possible:  
