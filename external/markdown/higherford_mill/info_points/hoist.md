@@ -3,7 +3,7 @@ Here's the lift by which the product is taken to the seperate floors during its 
 Don't forget that Higherford Mill has changed many times in it's history:
 
 ## Spinning - from 1824 to 1832
-Grimsshaw's operate a 4 story spinning mill, powered by waterwheel at first - they added a beam engine later.  
+Grimsshaw's operate a 4 story spinning mill, powered by waterwheel.
 The cotton 'product' is loaded onto a trolley and taken to a hoist to be transported to the next floor.
 
 ### Ground Floor
@@ -47,6 +47,27 @@ They're call Throstles, because they make a noise like a song thrush - if the so
 ![max_pic](./spinning.jpg)
 Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+### Outbuilding
+An outbuilding on the south side of the mill had two storeys. Grimshaws hired handloom weavers, working on Dandy looms. This was additional to the community of handloom weavers in the village. The mill would supply them with its own yarn.
 
-In the back there were also two storeys available for handlooms, so the Grimshaws were employing weavers on-site, as well as simply spinning. 
+
+## Spinning and weaving - 1832 - 1848
+In 1832, the Grimshaws cleared out the handloom weavers from the outbuilding and installed 74 powerlooms instead. For this, they needed the power of a beam engine. The Grimshaws were certainly on top of their game, here; Higherford Mill is one of the earliest mills using powerlooms, and certainly the first in the area to use steam power.
+
+## Spinning and Weaving - 1849 - 1851
+The North weaving shed is completed. It's pretty clear there's no love lost between the Grimshaws and the handloom weavers they displaced: the weaving shed is in an L-shape because the cottages couldn't be demolished to make way. 
+The hoist would have been used to take finished yarn down to be woven. At least a quarter of the North shed would be taken up with peparing the yarn before weaving, and then inspecting and packaging the woven fabric for despatch. 
+
+### Warping and Winding
+
+![max_pic](./warping_and_winding.jpg)
+
+
+### Reeding (or drawing-in)
+
+![max_pic](./reeding_or_drawing_in.jpg)
+
+
+
+
 
