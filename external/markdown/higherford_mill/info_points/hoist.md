@@ -61,20 +61,19 @@ The North weaving shed is completed to complement the spinning mill. It's pretty
 The hoist would have been used to take finished yarn down to be woven. At least a quarter of the North shed would be taken up with peparing the yarn before weaving, and then inspecting and packaging the woven fabric for despatch. 
 
 
-![max_pic](./warp_and_weft.jpg)
+Woven fabric is created by weaving a weft thread, in between vertical warp threads, using a loom:  
+![max_pic](./warp_and_weft.jpg)  
 Image Credit: [Kafziel](https://commons.wikimedia.org/wiki/User:Kafziel) [cc-by-sa-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
-Woven fabric is created by weaving a weft thread, in between vertical warp threads, using a loom.
-
-The warp threads are loaded on to the loom on a huge roll, called a beam. This is fitted to the head of the loom. When the loom is weaving, the warp thread is gradually paid out:
 
 ### Warping and Winding
+The warp threads are loaded on to the loom on a huge roll, called a beam. This is fitted to the head of the loom. When the loom is weaving, the warp threads are gradually paid out, and the warp thread is woven in between them.
+The beam has to be made so that all the warp threads are wound on in parallel:  
 
 ![max_pic](./warping_and_winding.jpg)
 
-When the beam is fitted to the loom, the warp threads (often hundreds, or thousands) must be threaded through guides, or heddles. The loom moves the warp threads individually as it creates the cloth:
-
 ### Reeding (or drawing-in)
+When the beam is fitted to the loom, the warp threads (often hundreds, or thousands) must be threaded through guides, or heddles. The loom moves the warp threads individually as it creates the cloth:  
 
 ![max_pic](./reeding_or_drawing_in.jpg)
 
