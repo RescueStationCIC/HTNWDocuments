@@ -28,7 +28,7 @@ From 1802 to 1891 there were over 18 Acts of Parliament passed as the country re
 
 From an 1863 article in the medical journal the Lancet - ‘A carder seldom lives in a cardroom beyond forty years of age. Many have to give up working much younger’.
 
-Perhaps the most desperate story to tell comes after the Factory and Workshop Act of 1878 - which only *reccommends* ventilation of factory spaces - some workers complained of hunger as a result of the improved ventilation. The amount of cotton they ingested actually affected their appetite.
+Perhaps the most desperate story to tell comes after the Factory and Workshop Act of 1878 - which only *reccommends* ventilation of factory spaces - some workers complained of hunger as a result of the improved ventilation. The amount of cotton they were ingesting had actually affected their appetite.
 
 ### What about here?
 The Grimshaws owned the mill until 1869. They were well regarded in Barrowford. Of Christopher Grimshaw, the most prominent member of the family at that time, it's written:  "During the cotton famine, about the years 1862-3, he took a great part in the relief of the distress caused by the stoppage of the mills, thus showing his great interest in the welfare of the village". So we can hope that Higherford Mill saw to its staff a little better.  
