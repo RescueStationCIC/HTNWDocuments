@@ -24,14 +24,16 @@ Each machine had its own belt wrapped round a wheel on the driveshaft.
 
 Belts and driveshafts were the way the mill worked, pretty much until it closed in 1971. They added some electric motors to the looms in the North Shed in 1936, but that was only because the belts were shaking the poor old roof down.
 
-![max_pic](./carding.jpg)
+![max_pic](./carding.jpg)  
 Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Water was used to power the mill for various things right the way through until the 1960's, when floods damaged the leats' wier.
 
 ## Water and Beam Engine (1832 - 1889) 
 The beam engine added power with it's own driveshaft. It kept the shaft turning at a constant rate for the looms, which increased the quality of the fabric they created.
-![max_pic](./beamengine.png)
+![max_pic](./beamengine1.png)
+Image Credit: Jack Whitehead and his family for [locallocalhistory.co.uk](https://www.locallocalhistory.co.uk/) which found and reproduced this image, from a [British Land Educational Broadsheet](https://www.locallocalhistory.co.uk/brit-land/index.htm#top)
+
 
 ### New Power Looms (1832) - 74 Looms
 By 1832, the mill was weaving on around 74 early power looms.
