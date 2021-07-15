@@ -6,10 +6,10 @@ He mortgages his house, chops down the trees, and embarks on some other 'landsca
 
 He was responsible for digging the 'lodge' - a small reservoir of about an acre, and diverting the river - Pendle Water - to fill it.
 Then he had constructed 2 'leats' - channels bringing the water down the hill - to the mill, one from the lodge, and one directly from the river.
-At the mill, the leats were combined into a double-decker 'pentrough' - a cast iron channel running to a water wheel.
+At the mill, the leats were combined into a double-decker 'pentrough' - a cast iron channel - running to a water wheel.
 
 ## Water (1824 - 1962)
-The first waterwheel at the mill was made from wood. It was 26ft high and 9ft wide (That's nearly 8m high and 3m wide). 
+The first waterwheel at the mill was made from wood. It was 26ft high and 9ft wide That's nearly 8m high and 3m wide. As high as a London bus is long.
 
 It produced enough power to drive the 4 story mill and all the processes it took to turn cotton bales into yarn, and to load that onto special rolls to be delivered to the 400 or-so local handloom weavers.
 
@@ -30,8 +30,8 @@ Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org
 Water was used to power the mill for various things right the way through until the 1960's, when floods damaged the leats' wier.
 
 ## Water and Beam Engine (1832 - 1889) 
-The beam engine added power with it's own driveshaft. It kept the shaft turning at a constant rate for the looms, which increased the quality of the fabric they created.
-![max_pic](./beamengine1.jpg)
+The beam engine added power with its own driveshaft. It kept the shaft turning at a constant rate for the looms, which increased the quality of the fabric they created.
+![max_pic](./beamengine1.jpg)  
 Image Credit: Jack Whitehead and his family for [locallocalhistory.co.uk](https://www.locallocalhistory.co.uk/) which found and reproduced this image, from a [British Land Educational Broadsheet](https://www.locallocalhistory.co.uk/brit-land/index.htm#top)
 
 
@@ -50,11 +50,11 @@ It's at this point that the spinning mill is demolished, and the mill goes full-
 
 Hard to belive, but water-wheel technology had plenty of innovations still to go. A new water-wheel was added, with 'ventilated buckets'. It added 24% more power. Just by changing the shape of the buckets, so the water didn't splosh out.
 
-The beam engine was upgraded with another cylinder. It would have provided an impressive 220 horse-power. That's about the same as a mid range sports car. 
+The beam engine was upgraded with another cylinder. It would have provided an impressive 220 horse-power. That's about the same as a - fairly expensive - car. 
 
 ## Water and Tandem Engine (1832 - 1936) 
 A huge investment - a new engine, with a new engine house was built, while the beam engine was still operating. 
-The Daniel Adamson Tandem compound engine was brought online and the old engine dismantled. The extra space was given over to more production.
+When the Daniel Adamson Tandem Compound Engine was brought online and the old engine dismantled, the extra space was given over to more production.
 The new engine gave 200hp, about the same as the beam engine, but it was smaller, and much, much cheaper to run.
 ![max_pic](./adamson_engine.jpg)
 Image Credit: Public domain, scanned by [Andy Dingley](https://commons.wikimedia.org/wiki/User:Andy_Dingley)
@@ -63,18 +63,18 @@ Image Credit: Public domain, scanned by [Andy Dingley](https://commons.wikimedia
 By 1906, the mill was running 484 looms. This is pretty much the capcity of the mill, and the peak of the mill's production.
 
 ### The end of the water wheel (1921)
-The water wheel was replaced with a more efficient turbine. Bad news. The sheer weight and size of the waterwheel was really good at ironing-out any changes in flow.  With the lighter turbine, it's much more difficult to keep the speed in sync with the steam engine.
+The water wheel was replaced with a more efficient turbine. Bad news. The sheer weight and size of the waterwheel was really good at ironing-out any changes in the water-flow. The lighter turbine was 'all over the place' - and rubbish at keeping its speed in sync with the steam engine.
 
 ### Enough of the turbine! (1926)
-The turbine is disconnected from the drive to the looms, but finds better work driving a gnerator, instead. Lights are now hydro electric!
+The turbine is disconnected from the drive to the looms, but finds better work driving a genrator, instead. Lights are now hydro electric! 
 
 
 ## Water and Diesel Electric. The long decline (1936 - 1971)
-During the Great Depression, from 1929 right through the 1930s global trade dropped by half. This hit the UK textile industry badly. The mill closed for 2 years. When it opened, the Adamson engine had been sold, just to keep the company alive. 
+During the Great Depression - from the 1929 US stock-market crash, right through the 1930s - global trade dropped by half. This hit the UK textile industry badly. The mill closed for 2 years. When it opened, the Adamson engine had been sold, just to keep the company alive. 
 The recovery was only partial. Trade in textiles was dropping anyway, as overseas suppliers took over who were more competitive in their home markets.
 
 ### The Sentinels (1936)
-Two of these diesel units supply the power to drive electic motors. The South shed is driven in the traditional way, by the same driveshaft. For the North shed, they ran in power cables to motors on the looms themselves. 
+Two of these diesel units supply the power to drive electric motors. The South shed is driven in the traditional way, by the same driveshaft. For the North shed, they ran in power cables to motors on the looms themselves. 
 
 ### The McLarens (1950's)
 These new engines replaced the worn-out Sentinels, but one is kept on standby.
