@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # Packhorse Bridge
 
 Known as the 'Old Bridge', it crosses Pendle Water and sits on the old packhorse track between Colne and Pendle Forest.  

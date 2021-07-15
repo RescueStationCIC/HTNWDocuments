@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # Hoist
 Here's the lift by which the product is taken to the seperate floors during its processing. Each floor does something different. 
 Don't forget that Higherford Mill has changed many times in it's history: Spinning only, Spinning and weaving combined, and then exclusively weaving.

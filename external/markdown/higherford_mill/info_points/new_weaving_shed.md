@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # 'New' South Weaving Shed
 This door used to lead to the South weaving shed. It was partly demolished in 1971, to make the forecourt outside, but most still remains as workshop units.
 

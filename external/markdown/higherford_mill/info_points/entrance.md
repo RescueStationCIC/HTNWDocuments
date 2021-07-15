@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # Entrance
 
 Higherford Mill has a complex history and some unique features.

@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # Pendle Water
 
 The river - Pendle Water - provided power for the mill's waterwheel, via a man-made branch just a little way upstream from here.

@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # 'Old' North Weaving Shed
 
 This shed was built sometime around 1849 and marked Higherford Mill's push into weaving fabric at a grand scale.

@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # Chimney
 
 
