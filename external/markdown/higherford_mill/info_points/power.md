@@ -31,7 +31,7 @@ Water was used to power the mill for various things right the way through until 
 
 ## Water and Beam Engine (1832 - 1889) 
 The beam engine added power with it's own driveshaft. It kept the shaft turning at a constant rate for the looms, which increased the quality of the fabric they created.
-![max_pic](./beamengine1.png)
+![max_pic](./beamengine1.jpg)
 Image Credit: Jack Whitehead and his family for [locallocalhistory.co.uk](https://www.locallocalhistory.co.uk/) which found and reproduced this image, from a [British Land Educational Broadsheet](https://www.locallocalhistory.co.uk/brit-land/index.htm#top)
 
 
