@@ -67,7 +67,7 @@ Two of these diesel units supply the power to drive electic motors. The South sh
 These new engines replaced the worn-out Sentinels, but one is kept on standby.
 
 ## Wove-out (1971)
-When the Mill ceased production, its assets, the waterpower works and associated land were divided up and sold off. The new owner of the mill converted parts of it to commercial workspace units. A yard was formed along Gisburn Road by dismantling the front wall of the 1882 South weaving shed and reusing the masonry to build an accessible frontage set back from the main road. The Old Shed was also subdivided and units let as workshops or for storage. Due to lack of maintenance the rest became derelict. Uses included engineering, automotive electronics fitting and valeting, garden furniture and fireplace manufacture, pump servicing, cushion making and cloth warehousing.
+When the Mill stopped production, the looms, engines, turbine and all its land were divided up and sold off. The new owner of the mill converted parts of it to commercial workspace units. A yard was formed along Gisburn Road by dismantling the front wall of the South weaving shed. The Old Shed was also subdivided and units let as workshops or for storage. Due to lack of maintenance the rest became derelict. 
 
 ----
 
