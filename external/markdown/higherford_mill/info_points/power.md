@@ -4,7 +4,7 @@
 It all started in 1823, when Thomas Grimshaw makes the massive investment to build a spinning mill on his orchard. 
 He mortgages his house, chops down the trees, and embarks on some other 'landscaping' activities - to exploit the only power resource available at the time - water.
 
-He was responsible for digging the 'lodge' - a small reservoir of about an acre, and diverting the river - Pendle Water - to fill it.
+He was responsible for -somebody-  digging the 'lodge' - a small reservoir of about an acre, and diverting the river - Pendle Water - to fill it.
 Then he had constructed 2 'leats' - channels bringing the water down the hill - to the mill, one from the lodge, and one directly from the river.
 At the mill, the leats were combined into a double-decker 'pentrough' - a cast iron channel - running to a water wheel.
 
