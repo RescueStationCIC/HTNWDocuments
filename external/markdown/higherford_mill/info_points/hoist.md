@@ -4,7 +4,7 @@ Here's the lift by which the product is taken to the seperate floors during its 
 Don't forget that Higherford Mill has changed many times in it's history: Spinning only, Spinning and weaving combined, and then exclusively weaving.
 
 ## Spinning - from 1824 to 1832
-Grimsshaw's operate a 4 story spinning mill, powered by waterwheel.
+Grimshaw's operate a 4 story spinning mill, powered by waterwheel.
 The cotton 'product' is loaded onto a trolley and taken to a hoist to be transported to the next floor.
 
 ### Ground Floor
