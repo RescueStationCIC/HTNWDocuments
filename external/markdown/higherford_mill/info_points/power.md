@@ -14,7 +14,7 @@ The first waterwheel at the mill was made from wood. It was 26ft high and 9ft wi
 It produced enough power to drive the 4 story mill and all the processes it took to turn cotton bales into yarn, and to load that onto special rolls to be delivered to the 400 or-so local handloom weavers.
 
 The waterwheel slowly turned a main cast-iron driveshaft which went up the side of the building. 
-Special gear-boxes on each floor turned a drive shaft for that floor.ILL
+Special gear-boxes on each floor turned a drive shaft for that floor.
 
 ![max_pic](./water_powered_mill.jpg)
 Image Credit: Jack Whitehead and his family for [locallocalhistory.co.uk](https://www.locallocalhistory.co.uk/) which found and reproduced this image, from a [British Land Educational Broadsheet](https://www.locallocalhistory.co.uk/brit-land/index.htm#top)
