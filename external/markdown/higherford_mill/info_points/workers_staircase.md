@@ -26,7 +26,7 @@ Life expectancy? 40, if you got past 5.
 ## Are you sure?
 From 1802 to 1891 there were over 18 Acts of Parliament passed as the country recognised that something was seriously wrong and tried to change. 
 
-But even as late as 1948, textile workers were still suffering from respiritory diseases, although the causes were understood 100 years before; pulmonary tuberculosis - from inhalation of fibres.  
+But even as late as 1948, textile workers were still suffering from respiritory diseases, although the causes were understood 100 years before; byssinosis - from inhalation of fibres.  
 
 From an 1863 article in the medical journal the Lancet - ‘A carder seldom lives in a cardroom beyond forty years of age. Many have to give up working much younger’.
 

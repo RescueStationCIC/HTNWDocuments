@@ -9,23 +9,29 @@ Then he had constructed 2 'leats' - channels bringing the water down the hill - 
 At the mill, the leats were combined into a double-decker 'pentrough' - a cast iron channel running to a water wheel.
 
 ## Water (1824 - 1962)
-The first waterwheel was made from wood. It was 26ft high and 9ft wide (That's nearly 8m high and 3m wide). 
+The first waterwheel at the mill was made from wood. It was 26ft high and 9ft wide (That's nearly 8m high and 3m wide). 
 
 It produced enough power to drive the 4 story mill and all the processes it took to turn cotton bales into yarn, and to load that onto special rolls to be delivered to the 400 or-so local handloom weavers.
 
 The waterwheel slowly turned a main cast-iron driveshaft which went up the side of the building. 
-Special gear-boxes on each floor turned a drive shaft for that floor.
+Special gear-boxes on each floor turned a drive shaft for that floor.ILL
+
+![max_pic](./water_powered_mill.jpg)
+Image Credit: Jack Whitehead and his family for [locallocalhistory.co.uk](https://www.locallocalhistory.co.uk/) which found and reproduced this image, from a [British Land Educational Broadsheet](https://www.locallocalhistory.co.uk/brit-land/index.htm#top)
+
 
 Each machine had its own belt wrapped round a wheel on the driveshaft.
 
 Belts and driveshafts were the way the mill worked, pretty much until it closed in 1971. They added some electric motors to the looms in the North Shed in 1936, but that was only because the belts were shaking the poor old roof down.
 
 ![max_pic](./carding.jpg)
+Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Water was used to power the mill for various things right the way through until the 1960's, when floods damaged the leats' wier.
 
 ## Water and Beam Engine (1832 - 1889) 
 The beam engine added power with it's own driveshaft. It kept the shaft turning at a constant rate for the looms, which increased the quality of the fabric they created.
+![max_pic](./beamengine.png)
 
 ### New Power Looms (1832) - 74 Looms
 By 1832, the mill was weaving on around 74 early power looms.
@@ -48,6 +54,8 @@ The beam engine was upgraded with another cylinder. It would have provided an im
 A huge investment - a new engine, with a new engine house was built, while the beam engine was still operating. 
 The Daniel Adamson Tandem compound engine was brought online and the old engine dismantled. The extra space was given over to more production.
 The new engine gave 200hp, about the same as the beam engine, but it was smaller, and much, much cheaper to run.
+![max_pic](./adamson_engine.jpg)
+Image Credit: Public domain, scanned by [Andy Dingley](https://commons.wikimedia.org/wiki/User:Andy_Dingley)
 
 ### More expansion - 484 Looms
 By 1906, the mill was running 484 looms. This is pretty much the capcity of the mill, and the peak of the mill's production.
@@ -68,6 +76,8 @@ Two of these diesel units supply the power to drive electic motors. The South sh
 
 ### The McLarens (1950's)
 These new engines replaced the worn-out Sentinels, but one is kept on standby.
+
+![max_pic](./mclaren_diesel.jpg)
 
 ## Wove-out (1971)
 When the Mill stopped production, the looms, engines, turbine and all its land were divided up and sold off. The new owner of the mill converted parts of it to commercial workspace units. A yard was formed along Gisburn Road by dismantling the front wall of the South weaving shed. The Old Shed was also subdivided and units let as workshops or for storage. Due to lack of maintenance the rest became derelict. 
