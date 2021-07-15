@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # Main Building - the Warehouse
 
 This part of the mill was built around 1856 as a 3 storey warehouse, to support the North weaving shed next door, to the right.
