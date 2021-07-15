@@ -1,3 +1,4 @@
+!(max_pic)[./people.png]
 # Handloom weavers' houses
 
 At the start of the 1800s, handloom weavering was skilled work. Weavers worked in their houses in small communities in Lancashire.  
