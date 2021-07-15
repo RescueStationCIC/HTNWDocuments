@@ -1,3 +1,4 @@
+![max_pic](./stories.png)
 # Workers' staircase
 This staircase has been here since this warehouse building was built in 1856, just next to the spinning mill.
 Until 1882, this was the way the spinners went in the morning and left in the evening. After that, no more spinners - the whole mill was demolished and replaced with a weaving shed.
@@ -29,7 +30,7 @@ But even as late as 1948, textile workers were still suffering from respiritory 
 
 From an 1863 article in the medical journal the Lancet - ‘A carder seldom lives in a cardroom beyond forty years of age. Many have to give up working much younger’.
 
-Perhaps the most desperate story to tell comes after the Factory and Workshop Act of 1878 - which only *reccommends* ventilation of factory spaces - some workers complained of hunger as a result of the improved ventilation. It was because there was less cotton in their stomachs.
+Perhaps the most desperate story to tell comes after the Factory and Workshop Act of 1878 - which only *reccommends* ventilation of factory spaces - some workers complained of hunger as a result of the improved ventilation. It was because they were taking in less cotton from the air, and there was less in their stomachs.
 
 ### What about here?
 The Grimshaws owned the mill until 1869. They were well regarded in Barrowford. Of Christopher Grimshaw, the most prominent member of the family at that time, it's written:  "During the cotton famine, about the years 1862-3, he took a great part in the relief of the distress caused by the stoppage of the mills, thus showing his great interest in the welfare of the village". So we can hope that Higherford Mill saw to its staff a little better.  
