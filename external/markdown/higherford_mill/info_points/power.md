@@ -1,6 +1,6 @@
 ![max_pic](./stories.png)
-# Power
 
+# Power
 It all started in 1823, when Thomas Grimshaw makes the massive investment to build a spinning mill on his orchard. 
 He mortgages his house, chops down the trees, and embarks on some other 'landscaping' activities - to exploit the only power resource available at the time - water.
 
@@ -25,9 +25,10 @@ Belts and driveshafts were the way the mill worked, pretty much until it closed 
 Water was used to power the mill for various things right the way through until the 1960's, when floods damaged the leats' wier.
 
 ## Water and Beam Engine (1832 - 1889) 
+The beam engine added power with it's own driveshaft. It kept the shaft turning at a constant rate for the looms, which increased the quality of the fabric they created.
+
 ## New Power Looms (1832) - 74 Looms
 By 1832, the mill was weaving on around 74 early power looms.
-The beam engine was installed to help turn the waterwheel's driveshaft. As well as the added power, it also kept the shaft turning at a constant rate for the looms, which increased the quality of the fabric they created.
 
 ### More Looms, same power (1849) - 113 Looms
 Looking at the records, they finished the North Weaving shed, and brought in loads more looms, bringing the total to about 113. The beam engine and water wheel combo seems to be able to cope.
