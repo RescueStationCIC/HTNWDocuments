@@ -81,7 +81,7 @@ When the beam is fitted to the loom, the warp threads (often hundreds, or thousa
 ## Spinning and Weaving - 1856 - 1882
 This is now the golden age of the mill. The great achievement was to be able to spin and weave, at scale, on the same site. 
 The warehouse building was built next door to the spinning mill, and over the top of the waterwheel.
-It was able to take-over all the preparation, inspection and despatch depatments from the North weaving shed.
+It was able to take-over all the preparation, inspection and despatch departments from the North weaving shed, leaving more room for looms.
 
 ### Second Floor Warehouse
 Oddly, this 2nd floor connects with the 3rd floor of the spinning mill - now all the yarn can be passed quickly across from spinning.
@@ -95,7 +95,7 @@ The offices are also on this floor. They have their own set of stairs.
 This is now where the cotton bales come in, and the finished fabric goes out.
 
 ## All is weaving - 1882
-The mill was now owned by the Wisemans. They converted the mill exclusively weaving, by knocking down the spinning mill, and replacing it with the second, South, weaving shed.
+The mill was now owned by the Wisemans. They converted the mill exclusively to weaving, by knocking down the spinning mill, and replacing it with the second, South, weaving shed.
 Now, all yarn is imported to the mill, which means a greater variety of fabric can be made. 
 
  
