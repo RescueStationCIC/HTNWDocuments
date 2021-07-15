@@ -1,3 +1,4 @@
+![max_pic](./things.png)
 # Despatch Door
 
 These huge doors lead into the mill's despatch area, where finished fabric was loaded onto wagons for distribution mostly for further processing, like printing.
