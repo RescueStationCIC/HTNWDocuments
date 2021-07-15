@@ -59,7 +59,7 @@ The North weaving shed is completed to complement the spinning mill. It's pretty
 
 
 ### Ground floor: Preparing the yarn for weaving, despatching the cloth
-The hoist would have been used to take finished yarn down to be woven. At least a quarter of the North shed would be taken up with peparing the yarn before weaving, and then inspecting and packaging the woven fabric for despatch. 
+The hoist would have been used to take finished yarn down to be woven. At least a quarter of the North shed would be taken up with preparing the yarn before weaving, and then inspecting and packaging the woven fabric for despatch. 
 
 
 Woven fabric is created by weaving a weft thread, in between vertical warp threads, using a loom:  
@@ -74,8 +74,7 @@ The beam has to be made so that all the warp threads are wound on in parallel:
 ![max_pic](./warping_and_winding.jpg)
 
 ### Reeding (or drawing-in)
-When the beam is fitted to the loom, the warp threads (often hundreds, or thousands) must be threaded through guides, or heddles. The loom moves the warp threads individually as it creates the cloth:  
-
+When the beam is fitted to the loom, the warp threads (often hundreds, or thousands) must be threaded through guides, or heddles. The loom moves the warp threads alternating up and down, then down and up as it creates the cloth. That's so that a block of wood - called a shuttle - can shoot in betweem them. It carries the weft thread. The power loom does this automatically and very fast, so it's important that the threads stay in place.
 ![max_pic](./reeding_or_drawing_in.jpg)
 
 
