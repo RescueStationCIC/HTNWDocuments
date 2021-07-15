@@ -44,12 +44,12 @@ Hard to belive, but water-wheel technology had plenty of innovations still to go
 
 The beam engine was upgraded with another cylinder. It would have provided an impressive 220 horse-power. That's about the same as a mid range sports car. 
 
-## Water and Tandem Engine (1832 - 1936) - 484 Looms
+## Water and Tandem Engine (1832 - 1936) 
 A huge investment - a new engine, with a new engine house was built, while the beam engine was still operating. 
 The Daniel Adamson Tandem compound engine was brought online and the old engine dismantled. The extra space was given over to more production.
 The new engine gave 200hp, about the same as the beam engine, but it was smaller, and much, much cheaper to run.
-
-By 1906, the mill was running 484 looms
+### More expansion - 484 Looms
+By 1906, the mill was running 484 looms. This is pretty much the capcity of the mill, and the peak of the mill's production.
 
 ### The end of the water wheel (1921)
 The water wheel was replaced with a more efficient turbine. Bad news. The sheer weight and size of the waterwheel was really good at ironing-out any changes in flow.  With the lighter turbine, it's much more difficult to keep the speed in sync with the steam engine.
@@ -64,7 +64,7 @@ During the Great Depression, from 1929 right through the 1930s global trade drop
 ### The Sentinels (1936)
 Two of these diesel units supply the power to drive electic motors. The South shed is driven in the traditional way, by the same driveshaft. For the North shed, they ran in power cables to motors on the looms themselves. 
 
-### The Maclarens (1950's)
+### The McLarens (1950's)
 These new engines replaced the worn-out Sentinels, but one is kept on standby.
 
 ## Wove-out (1971)
