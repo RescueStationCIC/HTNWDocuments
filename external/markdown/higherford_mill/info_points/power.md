@@ -57,7 +57,7 @@ A huge investment - a new engine, with a new engine house was built, while the b
 When the Daniel Adamson Tandem Compound Engine was brought online and the old engine dismantled, the extra space was given over to more production.
 The new engine gave 200hp, about the same as the beam engine, but it was smaller, and much, much cheaper to run.
 ![max_pic](./adamson_engine.jpg)
-Image Credit: Public domain, scanned by [Andy Dingley](https://commons.wikimedia.org/wiki/User:Andy_Dingley)
+The Adamson engine. Image Credit: Public domain, scanned by [Andy Dingley](https://commons.wikimedia.org/wiki/User:Andy_Dingley)
 
 ### More expansion - 484 Looms
 By 1906, the mill was running 484 looms. This is pretty much the capcity of the mill, and the peak of the mill's production.
