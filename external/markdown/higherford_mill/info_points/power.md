@@ -48,6 +48,7 @@ The beam engine was upgraded with another cylinder. It would have provided an im
 A huge investment - a new engine, with a new engine house was built, while the beam engine was still operating. 
 The Daniel Adamson Tandem compound engine was brought online and the old engine dismantled. The extra space was given over to more production.
 The new engine gave 200hp, about the same as the beam engine, but it was smaller, and much, much cheaper to run.
+
 ### More expansion - 484 Looms
 By 1906, the mill was running 484 looms. This is pretty much the capcity of the mill, and the peak of the mill's production.
 
@@ -58,8 +59,9 @@ The water wheel was replaced with a more efficient turbine. Bad news. The sheer 
 The turbine is disconnected from the drive to the looms, but finds better work driving a gnerator, instead. Lights are now hydro electric!
 
 
-## Water and Diesel Electric (1936 - 1971)
+## Water and Diesel Electric. The long decline (1936 - 1971)
 During the Great Depression, from 1929 right through the 1930s global trade dropped by half. This hit the UK textile industry badly. The mill closed for 2 years. When it opened, the Adamson engine had been sold, just to keep the company alive. 
+The recovery was only partial. Trade in textiles was dropping anyway, as overseas suppliers took over who were more competitive in their home markets.
 
 ### The Sentinels (1936)
 Two of these diesel units supply the power to drive electic motors. The South shed is driven in the traditional way, by the same driveshaft. For the North shed, they ran in power cables to motors on the looms themselves. 
@@ -70,6 +72,3 @@ These new engines replaced the worn-out Sentinels, but one is kept on standby.
 ## Wove-out (1971)
 When the Mill stopped production, the looms, engines, turbine and all its land were divided up and sold off. The new owner of the mill converted parts of it to commercial workspace units. A yard was formed along Gisburn Road by dismantling the front wall of the South weaving shed. The Old Shed was also subdivided and units let as workshops or for storage. Due to lack of maintenance the rest became derelict. 
 
-----
-
-Thanks to Anthony Pilling
