@@ -8,3 +8,6 @@ The Wisemans - the proprietors at that time - built their new weaving shed by te
 
 It happended quickly, too. In just 3 years - by 1885 - the mill was weaving on 495 looms, up from 200.
 
+![max_pic](./mill2_1969.png)
+Higherford Mill, in 1969, with the South Shed as it was originally.
+Image Credit: Anthony Pilling
