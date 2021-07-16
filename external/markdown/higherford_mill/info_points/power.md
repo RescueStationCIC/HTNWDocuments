@@ -66,7 +66,7 @@ By 1906, the mill was running 484 looms. This is pretty much the capcity of the 
 The water wheel was replaced with a more efficient turbine. Bad news. The sheer weight and size of the waterwheel was really good at ironing-out any changes in the water-flow. The lighter turbine was 'all over the place' - and rubbish at keeping its speed in sync with the steam engine.
 
 ### Enough of the turbine! (1926)
-The turbine is disconnected from the drive to the looms, but finds better work driving a genrator, instead. Lights are now hydro electric! 
+The turbine is disconnected from the drive to the looms, but finds better work driving a generator, instead. Lights are now hydro electric! 
 
 
 ## Water and Diesel Electric. The long decline (1936 - 1971)
