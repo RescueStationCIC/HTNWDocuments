@@ -16,7 +16,7 @@ Grimshaw would send the fabric on to printers in towns like Clitheroe and Catter
 Credit: Iñazio Irizar/ [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 
-But from 1832 the situation in Barrowford got uncomfortable and then progressivley worse as the Grimshaws diversified from spinning yarn and started weaving on power looms themselves. It required relatively unskilled workers, paid less, and gave more consistent quality in the fabric.
+But from 1832 the situation in Barrowford got uncomfortable and then progressively worse as the Grimshaws diversified from spinning yarn and started weaving on power looms themselves. It required relatively unskilled workers, paid less, and gave more consistent quality in the fabric.
 
 For the handloom weavers living nearby, it made for unpleasant competiton; although Grimshaw's still used 400 of them for putting-out contract work they couldn't hope to match the quality and price of the fabric made by the powerlooms. 
 
