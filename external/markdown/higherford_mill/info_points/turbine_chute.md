@@ -1,7 +1,7 @@
 ![max_pic](./things.png)  
 ## Turbine Chute
 
-This metal chute was installed in 1921, when the pentrough above it was blocked off, and the waterwheel removed.  In channeled water in to drive a new and more efficent turbine.
+This metal chute was installed in 1921, when the pentrough above it was blocked off, and the waterwheel removed.  It channeled water in to drive a new and more efficent turbine.
 ![max_pic](./turbine_rope_pulley.png)  
 Turbine rope pulley, 1969 - turbine water chute to the bottom right.
 Image Credit: Anthony Pilling
