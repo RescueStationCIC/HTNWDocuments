@@ -1,4 +1,4 @@
-![max_pic](./things.png)
+![max_pic](./people.png)
 # Workshop and Gallery Space
 
 This is the North weaving shed. 
