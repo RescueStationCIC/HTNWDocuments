@@ -51,10 +51,10 @@ Image Credit: Science Museum Group [CC BY-NC-SA 4.0](https://creativecommons.org
 An outbuilding on the south side of the mill had two storeys. Grimshaws hired handloom weavers, working on Dandy looms. This was additional to the community of handloom weavers in the village. The mill would supply them with its own yarn.
 
 
-## Spinning and weaving - 1832 - 1848
+## Spinning and weaving - from 1832 to 1848
 In 1832, the Grimshaws cleared out the handloom weavers from the outbuilding and installed 74 powerlooms instead. For this, they needed the power of a beam engine. The Grimshaws were certainly on top of their game, here; Higherford Mill is one of the earliest mills using powerlooms, and certainly the first in the area to use steam power.
 
-## Spinning and Weaving - 1849 - 1856
+## Spinning and Weaving from 1849 to 1856
 The North weaving shed is completed to complement the spinning mill. It's pretty clear there's no love lost between the Grimshaws and the handloom weavers they displaced: the weaving shed is in an L-shape around their cottages. The handloom weavers wouldn't sell. Seems the Grimshaws always hoped they would; there are columns built into the shed's wall to extend and complete the square.
 
 
@@ -67,6 +67,14 @@ Woven fabric is created by weaving a weft thread, in between vertical warp threa
 Image Credit: [Kafziel](https://commons.wikimedia.org/wiki/User:Kafziel) [cc-by-sa-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
 
+Here's the basic method:
+
+![max_pic](./basic_loom.jpg)  
+Image Credit: *public domain*
+
+You can see that a loom is going to need a lot of setting-up before it's capable of creating cloth. It's all about getting the weft threads in-between those warp-threads.
+
+
 ### Warping and Winding
 The warp threads are loaded on to the loom on a huge roll, called a beam. This is fitted to the head of the loom. When the loom is weaving, the warp threads are gradually paid out, and the warp thread is woven in between them.
 The beam has to be made so that all the warp threads are wound on in parallel:  
@@ -74,12 +82,12 @@ The beam has to be made so that all the warp threads are wound on in parallel:
 ![max_pic](./warping_and_winding.jpg)
 
 ### Reeding (or drawing-in)
-When the beam is fitted to the loom, the warp threads (often hundreds, or thousands) must be threaded through guides, or heddles. The loom moves the warp threads alternating up and down, then down and up as it creates the cloth. That's so that a block of wood - called a shuttle - can shoot in betweem them. It carries the weft thread. The power loom does this automatically and very fast, so it's important that the threads stay in place.
+When the beam is fitted to the loom, the warp threads (often hundreds, or thousands) must be threaded through guides, or heddles. The loom moves the warp threads alternating up and down, then down and up as it creates the cloth. That's so that a block of wood - called a shuttle - can shoot in between them. It carries the weft thread. The power loom does this automatically and very fast, so it's important that the threads stay in place.
 ![max_pic](./reeding_or_drawing_in.jpg)
 
 
-## Spinning and Weaving - 1856 - 1882
-This is now the golden age of the mill. The great achievement was to be able to spin and weave, at scale, on the same site. 
+## Spinning and Weaving - from 1856 to 1882
+This is now the golden age of the mill. The great achievement was to be able to spin and weave, at scale, on the same site. They call this 'vertical integration'. 
 The warehouse building was built next door to the spinning mill, and over the top of the waterwheel.
 It was able to take-over all the preparation, inspection and despatch departments from the North weaving shed, leaving more room for looms.
 
@@ -94,11 +102,8 @@ The offices are also on this floor. They have their own set of stairs.
 ### Ground floor Warehouse
 This is now where the cotton bales come in, and the finished fabric goes out.
 
-## All is weaving - 1882
+## All is weaving - from 1882
 The mill was now owned by the Wisemans. They converted the mill exclusively to weaving, by knocking down the spinning mill, and replacing it with the second, South, weaving shed.
 Now, all yarn is imported to the mill, which means a greater variety of fabric can be made. 
 
  
-
-
-
