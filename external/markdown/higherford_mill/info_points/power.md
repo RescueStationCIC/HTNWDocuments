@@ -79,7 +79,9 @@ Two of these diesel units supply the power to drive electric motors. The South s
 ### The McLarens (1950's)
 These new engines replaced the worn-out Sentinels, but one is kept on standby.
 
-![max_pic](./mclaren_diesel.jpg)
+![max_pic](./mclaren_sentinel.png)
+Engine room, 1969 McLaren, with Sentinel in the foreground.
+Image Credit: Anthony Pilling
 
 ## Wove-out (1971)
 When the Mill stopped production, the looms, engines, turbine and all its land were divided up and sold off. The new owner of the mill converted parts of it to commercial workspace units. A yard was formed along Gisburn Road by dismantling the front wall of the South weaving shed. The Old Shed was also subdivided and units let as workshops or for storage. Due to lack of maintenance the rest became derelict. 
