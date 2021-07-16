@@ -14,6 +14,6 @@ The mill has always used a combination of power sources. Two drive shafts came i
 
 The thin columns and the fragile driveshaft brackets date this shed. It's the earliest surviving north-light structure in the world. 
 
-![max_pic](./dobby_loom.png)
+![max_pic](./dobby_loom.png)  
 Weaving in the North shed, 1969.
 Image Credit: Anthony Pilling
