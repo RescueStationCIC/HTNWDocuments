@@ -86,3 +86,5 @@ Image Credit: Anthony Pilling
 ## Wove-out (1971)
 When the Mill stopped production, the looms, engines, turbine and all its land were divided up and sold off. The new owner of the mill converted parts of it to commercial workspace units. A yard was formed along Gisburn Road by dismantling the front wall of the South weaving shed. The Old Shed was also subdivided and units let as workshops or for storage. Due to lack of maintenance the rest became derelict. 
 
+![max_pic](./warp_beams.png)
+Image Credit: Anthony Pilling
