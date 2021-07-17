@@ -1,5 +1,5 @@
 # Pendle Heritage Centre
-Welcome to the Pendle Heritage Centre, at Park Hill.
+Welcome to the Pendle Heritage Centre, at Park Hill.  
 Back in 1977, this was the first restoration undertaken by the Heritage Trust for the North West.
 The Trust seeks to rescue and restore buildings of historic significnce, finding new uses for them to ensure their safety in the future.
 
