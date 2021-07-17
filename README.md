@@ -15,15 +15,32 @@ This site uses the Jekyll Minima them, which supplies a menu, header and footer.
 The site is owned by the RescueStationCIC organisation within GitHub.
 The easiest way to maintain the site, is to become a collaborator on this specific project, by supply the project owners with your GitHub username.
 
+The relavent files to change are all held in 
+
+`HTNWDocuments/external/markdown`
+
 ### GitHub Pages
 When published on GitHub Pages, the site is available at: 
 
-https://rescuestationcic.github.io/HTNWDocuments/
+`https://rescuestationcic.github.io/HTNWDocuments/`
 
 It not advised to change the owning organisation: if this happens the GitHub Pages site address will also change, breaking any links which are dependent on it.
 
 ### Using the GitHub website 
-This is the easiest way to maintain the site.
+This is the easiest way to maintain the site. 
+Any file changes or additions cause an automatic rebuild of the site, and are avilable almost instantly.
+
+You can edit files with the .md (markdown) filename extension.  
+You can upload new files. 
+If adding pictures, it's easiest to add them to the same directory as the markdown file they are referenced from and refer to them with a relative path. For example:
+
+`![max_pic](./my_picture.png)`
+
+
+
+
+
+
 
 
 
