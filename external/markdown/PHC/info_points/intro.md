@@ -12,15 +12,12 @@ You can move around by tapping the **arrow buttons**:
 
 ![arrows](./nav_arrow.png)  
 
-You can find areas of special interest, by tapping the **thumbnails button**:  
+You can tap on anything highlighted, to bring up a photo which you can zoom for more detail.
 
-![thumbnail](./thumbnails.png)  
-
-Areas of interest have icons you can find, to get more information:
+You can tap on any of these icons, to get more information:
 
 | Things                  | People                  | Stories                   |
 | ----------------------- | ----------------------- | ------------------------- |
 | ![things](./things.png) | ![people](./people.png) | ![stories](./stories.png) |
 
 
-You can click on anything highlighted, to bring up a photo which you can zoom for more detail.
