@@ -1,7 +1,7 @@
 # Pendle Heritage Centre
 Welcome to the Pendle Heritage Centre, at Park Hill.  
 Back in 1977, this was the first restoration undertaken by the Heritage Trust for the North West.
-The Trust seeks to rescue and restore buildings of historic significnce, finding new uses for them to ensure their safety in the future.
+The Trust seeks to rescue and restore buildings of historic significance, finding new uses for them to ensure their safety in the future.
 
 Park Hill has a long history, beginning around 1450, when John Bannister built a timber hall and farm here. During its restoration, Park Hill revealed a trail of evidence telling the story of its development over nearly 600 years, as its owners' fortunes waxed and waned.
 
