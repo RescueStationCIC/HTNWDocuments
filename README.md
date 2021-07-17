@@ -56,7 +56,9 @@ The advantage of using your computer is that you can run the site locally, and c
 #### Seeing the site on your computer
 You will download this repository to a folder on your computer, and go to that folder.
 
-When you want to look at your site locally (on your own computer), Jekyll will start a web-server running on your own computer. It will notify you that it's running, and provide you with the URL you can find your site at. You'll copy that to your clip-board go to your favourite browser, and paste it in. As mentioned above this will be the URL to the website holding the documenation. Because we made changes to the them to remove any navigation, you will need to provide the full path to your document.
+When you want to look at your site locally (on your own computer), Jekyll will start a web-server running on your own computer. 
+You can find out more [here](https://jekyllrb.com/docs/#instructions).  
+Jekyll will notify you that it's running, and provide you with the URL you can find your site at. You'll copy that to your clip-board go to your favourite browser, and paste it in. As mentioned above this will be the URL to the website holding the documenation. Because we made changes to the them to remove any navigation, you will need to provide the full path to your document.
 Here's an example:
 
 `http://127.0.0.1:4000/HTNWDocuments/external/markdown/higherford_mill/info_points/new_weaving_shed`
