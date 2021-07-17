@@ -3,7 +3,7 @@
 This is a Jekyll site. It provides a simple method for publishing documents. 
 On the GitHub Pages infrastructure, hosting is free.  
 Documents are created in Markdown format. When the site is built, they render as HTML and CSS.  
-For example, [here](https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/new_weaving_shed)
+For example, [here](https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/new_weaving_shed).  
 The decision to use this techmology was based on:  
 1. Free. Wordpress site has a cost  
 2. Display in iFrame. Google Sites no longer allow this.  
