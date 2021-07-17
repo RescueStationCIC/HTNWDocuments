@@ -36,9 +36,7 @@ If adding pictures, it's easiest to add them to the same directory as the markdo
 
 `![max_pic](./my_picture.png)`
 
-
-
-
+Using `max_pic` in the markdown picture reference is a way to tag the picture and apply a style, if needed, in this case, you might use `max_pic` to centre the picture horizontally, and apply a maximum size.
 
 
 
