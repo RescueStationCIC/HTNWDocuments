@@ -8,6 +8,8 @@ Mason's marks have been difficult for historians to understand; there is very li
 
 Generally, it's accepted that mason's marks are there for entirely practical reasons, rather than, say, an individual mason signing their work.
 
+![max_pic](./makers_mark.png)
+
 
 
 
