@@ -10,12 +10,8 @@ You can move around by tapping the **arrow buttons**:
 
 ![arrows](./nav_arrow.png)  
 
-You can tap on anything highlighted, to bring up a photo which you can zoom for more detail.
+You can tap on any of the icons, to get more information:
 
-You can tap on any of these icons, to get more information:
-
-| Things                  | People                  | Stories                   |
-| ----------------------- | ----------------------- | ------------------------- |
-| ![things](./things.png) | ![people](./people.png) | ![stories](./stories.png) |
+![stories](./stories.png) |
 
 

@@ -1,3 +1,4 @@
+![max_pic](./stories.png)
 # Cellar Pit
 
 Cellars have been used since the 1700's to preserve food - they're nice and cool; dry, if properly ventilated.
